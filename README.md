@@ -1,7 +1,3 @@
-Got it! Here's the updated `README.md` for your [AI-Chatbot](https://github.com/Thorfinn05/AI-Chatbot) repository using individual `pip install` commands instead of `requirements.txt`:
-
----
-
 # 🧠 AI-Chatbot
 
 A terminal-based chatbot powered by **LangChain** and **Google Gemini 1.5 Flash**, built to answer any question you throw at it in real time. Perfect as a minimal and extendable starting point for building your own AI assistant.
@@ -119,5 +115,3 @@ Licensed under the [MIT License](LICENSE)
 If you found this helpful, consider giving the repo a ⭐ to show your support!
 
 ---
-
-Let me know if you'd like me to generate a logo, banner, or deployment guide for a web version!
